@@ -42,4 +42,11 @@ t-Test for Individual Lots
 
 ## Study Design: MechaCar vs Competition
 
+Safety Rating, which is considered one of the most important factores when looking for a car, would be a useful statistical study. We would perform the statistical study to compare safety ratings of MechaCar vehicles and safety ratings of vehicles from other manufacturers.
 
+Null Hypothesis: Mechacar vehicles have do not have statistically significantly higher safety ratings compared to vehicles from other manufacturers.
+Alternative Hypothesis: MechaCar vehicles do have statistically significantaly higher safety ratings compared to vehicles from other manufacturers.
+
+I would use a one-tailed t-test as it would result in statistic information any differences between the groups being compares. 
+
+The data needed would be safety ratings of MechaCar vehicles and safety ratings of other manufacturers' vehicles safety ratings. 
