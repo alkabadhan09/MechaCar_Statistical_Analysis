@@ -28,3 +28,18 @@ t-Test for All Manufacturing Lots
 
 ![MechaCarDev3 1](https://user-images.githubusercontent.com/107225715/191973039-4172af55-c4e9-431a-9b06-65e56f47cacb.png)
 
+The p-value for all manufacturing lots is 0.06 which is higher than the basic significance level of 0.05. This means that there is not enough evidence to reject the null hypothesis. The mean of all three manufacturing lots is statistically similar to the polulation mean of 1,500 pounds PSI.
+
+t-Test for Individual Lots
+
+![MechaCarDev3 2](https://user-images.githubusercontent.com/107225715/192026422-78c2d0c9-2651-4cee-9e03-98f113c45a04.png)
+
+* With a p-value of 1, for Lot 1, there is not enough evidence to reject the null hypothesis that the mean PSI of Lot 1 is not statistically different from the population mean of 1500 pounds PSI.
+
+* Lot 2 has a p-value of 0.61, which means that there is not enough evidence to reject the null hypothesis and the sample mean and the population mean of 1500 pounds PSI are statistically similar.
+
+* Lot 3 has a p-value of 0.04, which means that there is enough evidence to reject the null hypothesis, therefore, the mean PSI of Lot 3 is statistically different from the population mean of 1500 pounds PSI.
+
+## Study Design: MechaCar vs Competition
+
+
